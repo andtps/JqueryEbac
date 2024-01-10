@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    width: 500px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+}
+
+.form-div{
+    display: block;
+}
+
+form{
+    margin-top: 30px;
+}
+
+input{
+    width: 300px;
+}
+
+ul li{
+    text-decoration: none;
+}
+
+.list-div{
+    margin-top: 10px;
+}
+
+li{
+    padding: 10px;
+}
+
+.done{
+    text-decoration: line-through;
+}
